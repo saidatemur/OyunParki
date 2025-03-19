@@ -1,0 +1,12 @@
+public class AbonmanKart {
+    private int kisiSayisi;
+    private int kullanimSuresi;
+
+    public AbonmanKart(int kisiSayisi, int kullanimSuresi) {
+        // Constructor
+    }
+
+    public void kartSuresiHatirlat(int sure) {
+        // Süre hatırlatma işlemi
+    }
+}
