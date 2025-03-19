@@ -1,0 +1,17 @@
+public class KartSuresiHatirlatici  {
+    public static void kartSuresiHatirlat(int sure) {
+        System.out.println("Kart süreniz " + sure + " gün kaldı.");
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
